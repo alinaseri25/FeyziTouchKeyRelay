@@ -1,0 +1,17 @@
+# KiCad cache & backup files
+*.cache.lib
+*-backups/
+*-rescue.lib
+
+# KiCad internal files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+autosave-*
+/lock
+/FpLibCache
+
+# Build output (if any)
+build/
+
+.history/
